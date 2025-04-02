@@ -1,0 +1,2 @@
+Hello there I am Hitesh
+Lets get started with the git conflicts

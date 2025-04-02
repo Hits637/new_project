@@ -1,0 +1,7 @@
+
+Hello there I am Hitesh
+<<<<<<< HEAD
+this is step 2 to create conflict lets see what happens if we try to merge both 
+=======
+Lets get started with the git conflicts
+>>>>>>> mynewbranch
